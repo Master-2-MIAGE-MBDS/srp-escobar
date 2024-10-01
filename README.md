@@ -1,4 +1,6 @@
-﻿### Application de gestion de tâches
+﻿ESCOBAR Quentin
+
+### Application de gestion de tâches
 
 Vous devez développer une application en Java pour gérer une liste de tâches. Une tâche a les caractéristiques suivantes :
 
