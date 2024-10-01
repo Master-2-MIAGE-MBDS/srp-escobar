@@ -1,4 +1,5 @@
-﻿ESCOBAR Quentin
+﻿ESCOBAR Quentin 
+BOUSSIK Khalil
 
 ### Application de gestion de tâches
 
